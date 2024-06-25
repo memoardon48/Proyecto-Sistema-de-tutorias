@@ -1,0 +1,103 @@
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.pdb
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.xml
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.vbproj.AssemblyReference.cache
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.BalanceGenereal.resources
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Clases.resources
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.ClasesTutor.resources
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Form1.resources
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.gerencia.resources
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Marketing.resources
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.MenuClientes.resources
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.MenuTutores.resources
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Resources.resources
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.tutor.resources
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.TutoriasTutor.resources
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.vbproj.GenerateResource.cache
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.vbproj.CoreCompileInputs.cache
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.exe
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.xml
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.pdb
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.PorcentajesRRHH.resources
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.MenuRRHH.resources
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.PagosRRHH.resources
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.EvaluacionesRRHH.resources
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Usuarios.resources
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmBuscarClase.resources
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmBuscarTutor.resources
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.MenuA.resources
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.TutoriasCliente.resources
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmBuscarCliente.resources
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\EnvDTE.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\stdole.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.MSXML.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.ReporteFactura.resources
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\RdlCompile.cache
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\RdlCompile.compiled
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.vbproj.CopyComplete
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Clientes.resources
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmAuditoria.resources
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmReporteClientes.resources
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmReportTutor.resources
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmBuscarUsuario.resources
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmReporteAuditoria.resources
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmReporteTutorias.resources
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmReporteMarketing.resources
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmReporteFinanciero.resources
+C:\Users\agarc\OneDrive\Escritorio\Desarrollo\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FrmReporteEvaluacion.resources
