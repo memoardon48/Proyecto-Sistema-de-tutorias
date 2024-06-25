@@ -1,0 +1,485 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{43272F96-9F77-4DE9-96D0-109F5CF7BD7D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Proyecto_Final.My.MyApplication</StartupObject>
+    <RootNamespace>Proyecto_Final</RootNamespace>
+    <AssemblyName>Proyecto Final</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Proyecto Final.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Proyecto Final.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.1000.523\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.1000.523\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.1000.523\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.1000.523\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.1000.523\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.1016.290\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BalanceGenereal.Designer.vb">
+      <DependentUpon>BalanceGenereal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BalanceGenereal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clases.Designer.vb">
+      <DependentUpon>Clases.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Clases.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClasesTutor.Designer.vb">
+      <DependentUpon>ClasesTutor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ClasesTutor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="clientes.Designer.vb">
+      <DependentUpon>clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="conectarDB.vb" />
+    <Compile Include="DataSis.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSis.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAuditoria.Designer.vb">
+      <DependentUpon>FrmAuditoria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAuditoria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBuscarClase.Designer.vb">
+      <DependentUpon>FrmBuscarClase.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBuscarClase.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBuscarCliente.Designer.vb">
+      <DependentUpon>FrmBuscarCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBuscarCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBuscarTutor.Designer.vb">
+      <DependentUpon>FrmBuscarTutor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBuscarTutor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBuscarUsuario.Designer.vb">
+      <DependentUpon>FrmBuscarUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBuscarUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReporteAuditoria.Designer.vb">
+      <DependentUpon>FrmReporteAuditoria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReporteAuditoria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReporteClientes.Designer.vb">
+      <DependentUpon>FrmReporteClientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReporteClientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReporteEvaluacion.Designer.vb">
+      <DependentUpon>FrmReporteEvaluacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReporteEvaluacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReporteFinanciero.Designer.vb">
+      <DependentUpon>FrmReporteFinanciero.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReporteFinanciero.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReporteMarketing.Designer.vb">
+      <DependentUpon>FrmReporteMarketing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReporteMarketing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReporteTutorias.Designer.vb">
+      <DependentUpon>FrmReporteTutorias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReporteTutorias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReportTutor.Designer.vb">
+      <DependentUpon>FrmReportTutor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReportTutor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gerencia.Designer.vb">
+      <DependentUpon>gerencia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="gerencia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Marketing.Designer.vb">
+      <DependentUpon>Marketing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Marketing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menu.Designer.vb">
+      <DependentUpon>menu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuClientes.Designer.vb">
+      <DependentUpon>MenuClientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuClientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuRRHH.Designer.vb">
+      <DependentUpon>MenuRRHH.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuRRHH.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuTutores.Designer.vb">
+      <DependentUpon>MenuTutores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MenuTutores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PagosRRHH.Designer.vb">
+      <DependentUpon>PagosRRHH.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PagosRRHH.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PorcentajesRRHH.Designer.vb">
+      <DependentUpon>PorcentajesRRHH.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PorcentajesRRHH.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="EvaluacionesRRHH.Designer.vb">
+      <DependentUpon>EvaluacionesRRHH.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EvaluacionesRRHH.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteFactura.Designer.vb">
+      <DependentUpon>ReporteFactura.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteFactura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tutor.Designer.vb">
+      <DependentUpon>tutor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tutor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TutoriasCliente.Designer.vb">
+      <DependentUpon>TutoriasCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TutoriasCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TutoriasTutor.Designer.vb">
+      <DependentUpon>TutoriasTutor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TutoriasTutor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios.Designer.vb">
+      <DependentUpon>Usuarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BalanceGenereal.resx">
+      <DependentUpon>BalanceGenereal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clases.resx">
+      <DependentUpon>Clases.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClasesTutor.resx">
+      <DependentUpon>ClasesTutor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="clientes.resx">
+      <DependentUpon>clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAuditoria.resx">
+      <DependentUpon>FrmAuditoria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBuscarClase.resx">
+      <DependentUpon>FrmBuscarClase.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBuscarCliente.resx">
+      <DependentUpon>FrmBuscarCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBuscarTutor.resx">
+      <DependentUpon>FrmBuscarTutor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBuscarUsuario.resx">
+      <DependentUpon>FrmBuscarUsuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReporteAuditoria.resx">
+      <DependentUpon>FrmReporteAuditoria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReporteClientes.resx">
+      <DependentUpon>FrmReporteClientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReporteEvaluacion.resx">
+      <DependentUpon>FrmReporteEvaluacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReporteFinanciero.resx">
+      <DependentUpon>FrmReporteFinanciero.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReporteMarketing.resx">
+      <DependentUpon>FrmReporteMarketing.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReporteTutorias.resx">
+      <DependentUpon>FrmReporteTutorias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReportTutor.resx">
+      <DependentUpon>FrmReportTutor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gerencia.resx">
+      <DependentUpon>gerencia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Marketing.resx">
+      <DependentUpon>Marketing.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menu.resx">
+      <DependentUpon>menu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuClientes.resx">
+      <DependentUpon>MenuClientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuRRHH.resx">
+      <DependentUpon>MenuRRHH.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuTutores.resx">
+      <DependentUpon>MenuTutores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PagosRRHH.resx">
+      <DependentUpon>PagosRRHH.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PorcentajesRRHH.resx">
+      <DependentUpon>PorcentajesRRHH.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EvaluacionesRRHH.resx">
+      <DependentUpon>EvaluacionesRRHH.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportAuditoria.rdlc" />
+    <EmbeddedResource Include="ReportClientes.rdlc" />
+    <EmbeddedResource Include="ReporteFactura.resx">
+      <DependentUpon>ReporteFactura.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportEvaluacion.rdlc" />
+    <EmbeddedResource Include="ReportFactura.rdlc" />
+    <EmbeddedResource Include="ReportFinanciero.rdlc" />
+    <EmbeddedResource Include="ReportMarketing.rdlc" />
+    <EmbeddedResource Include="ReportTutores.rdlc" />
+    <EmbeddedResource Include="ReportTutorias.rdlc" />
+    <EmbeddedResource Include="tutor.resx">
+      <DependentUpon>tutor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TutoriasCliente.resx">
+      <DependentUpon>TutoriasCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TutoriasTutor.resx">
+      <DependentUpon>TutoriasTutor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios.resx">
+      <DependentUpon>Usuarios.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DataSis.xsc">
+      <DependentUpon>DataSis.xsd</DependentUpon>
+    </None>
+    <None Include="DataSis.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSis.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DataSis.xss">
+      <DependentUpon>DataSis.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Resources\add_icon-icons.com_74429 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accept_icon-icons.com_74428.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_icon-icons.com_66118 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vcsconflicting_93497.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3844476-eye-see-show-view-watch_110339.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view_show_icon_124811.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_locate_find_icon-icons.com_67287 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\masculine-user-with-suit-tie-and-locked-padlock_icon-icons.com_68295.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folders_folder_20348.png" />
+    <None Include="Resources\minuscirclehd_106108.png" />
+    <None Include="Resources\1486504846-clipboard-tasks-report-business-checking-verification-document_81354.png" />
+    <Content Include="SqlServerTypes\Loader.cs" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
